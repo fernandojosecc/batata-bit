@@ -204,6 +204,16 @@ main{
     background-position: center;
     background-repeat: no-repeat;
 }
+.currency-table-container .up{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    background-image: url('./assets/icons/trending-up.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 @-webkit-keyframes bgAnimateBitcoin {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
